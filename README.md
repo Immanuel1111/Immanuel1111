@@ -55,15 +55,47 @@ Growing through hands-on, real-world project building
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Tech Stack & Skill Highlights
 
 <div align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=22d3ee)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=22d3ee)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=22d3ee)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=22d3ee)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=22d3ee)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=22d3ee)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=22d3ee)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=22d3ee)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=22d3ee)
+
+</div>
+
+<br/>
+
+**Proficiency Snapshot**
+
+| Skill | Level |
+|---|---|
+| JavaScript | ████████████████░░░░ 80% |
+| React | ██████████████░░░░░░ 70% |
+| Python / Django | ██████████████░░░░░░ 70% |
+| HTML5 / CSS3 | ██████████████████░░ 90% |
+| MongoDB | ████████████░░░░░░░░ 60% |
+| Git / GitHub | ████████████████░░░░ 80% |
+
+<br/>
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="28"/> GitHub Stats & Streak
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Immanuel1111&show_icons=true&theme=react&bg_color=000000&title_color=22d3ee&icon_color=22d3ee&text_color=67e8f9&border_color=0891b2&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Immanuel1111&theme=react&background=000000&stroke=0891b2&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=67e8f9&dates=67e8f9&border=0891b2&hide_border=false" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuel1111&layout=compact&theme=react&bg_color=000000&title_color=22d3ee&text_color=67e8f9&border_color=0891b2&hide_border=false" width="50%"/>
 
 </div>
 
